@@ -1,0 +1,2 @@
+# montrealroyalsuites
+Static site: montrealroyalsuites
